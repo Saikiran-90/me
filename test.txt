@@ -1,2 +1,3 @@
 This file is to check, cloning,pushing,pulling on git.
 Editing this file to check pull command.
+Editing locally to check changes in remote repo.
